@@ -73,10 +73,18 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
     implementation (libs.androidx.appcompat)
+    implementation (libs.google.material)
     implementation (libs.material)
     implementation (libs.androidx.appcompat.v161)
-     //RETROFIT
+    //RETROFIT
     implementation (libs.retrofit)
     implementation (libs.converter.gson)
+    // coroutine
+    implementation (libs.kotlinx.coroutines.android)
+    implementation (libs.kotlinx.coroutines.core)
+
+    //location
+    implementation (libs.play.services.location)
+    implementation (libs.androidx.constraintlayout)
 
 }
