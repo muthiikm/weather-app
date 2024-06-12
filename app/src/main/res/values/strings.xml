@@ -1,8 +1,16 @@
 <resources>
     <string name="app_name">weather_app</string>
-    <string name="wind_speed" />
-    <string name="humidity" />
-    <string name="sunset" />
-    <string name="pressure" />
-    <string name="sunrise" />
+    <string name="wind_speed">wind_speed</string>
+    <string name="humidity" >humidity</string>
+    <string name="sunset" >sunset</string>
+    <string name="pressure" >pressure</string>
+    <string name="sunrise" >sunrise</string>
+    <string name="updated_at" >updated_list</string>
+    <string name="location">location</string>
+    <string name="clear_sky" >clear_sky</string>
+    <string name="_24_c" >_24_c</string>
+    <string name="min_temp" >min-temp</string>
+    <string name="max_temp" >max-temp</string>
+    <string name="perfect" >perfect</string>
+    <string name="feels_like" >feels-like</string>
 </resources>
